@@ -1,4 +1,3 @@
-package l;
 //Unit 5: Writing Classes
 
 /* 5.3: Documentation. Comments are a great way to document code
